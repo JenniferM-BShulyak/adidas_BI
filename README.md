@@ -22,3 +22,4 @@ Related pivot charts were combined in order to form dashboards. Slicers were add
 
 ## Dashboard 1: Sales By Sale Method
 
+![Sales By Sale Method Dashboard](Dashboards/SalesBySaleMethod.png)
