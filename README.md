@@ -23,3 +23,10 @@ Related pivot charts were combined in order to form dashboards. Slicers were add
 ## Dashboard 1: Sales By Sale Method
 
 ![Sales By Sale Method Dashboard](Dashboards/SalesBySaleMethod.png)
+
+### Key Findings: 
+* Apparel items geared toward females are far more popular than those geared toward men regardless of sale-method; this correlates with a higher preice per unit for female apparel items as well. This demonstrates that raising the price of female oriented goods does not equate to lower sales.
+* There is a 46.71% drop in outlet units sold in the Summer 2021 during the months of June and July. A significant drop in units sold was also present in the Summer of 2020. It mat be worth investing in marketing towards students out for the summer or ensuring inventory is not sitting to avoid inventory obsolescence.
+* a
+
+## Dashboard 2: KPIs by Region and by Retailer (IN PROGRESS)
